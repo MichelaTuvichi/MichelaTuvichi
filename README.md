@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichelaTuvichi
 - 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...HTML
+- 🌱 I’m currently learning ...HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on ...HTML,CSS,Javascript,Python
 - 📫 How to reach me ...nagy_michela95@yahoo.com
 
